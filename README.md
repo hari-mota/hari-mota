@@ -4,8 +4,6 @@ I'm a Computer Science student and freelance developer with a focus on **Python*
 
 I enjoy building practical tools, automation scripts, bots, and small to medium-sized applications from idea to deployment.
 
-When I'm not coding, I'm a big **rhythm game** fan, which often inspires the kind of fast, interactive projects I like to build.
-
 ---
 
 ## 🚀 What I Work On
